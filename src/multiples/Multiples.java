@@ -7,9 +7,6 @@ package multiples;
 
 /*
 Braden Niksich
-TEC 283
-Lab 3 Task 1
-9/17/18
 This application displays multiples of 2. The user gets to input how many multiples they would like to see.
  */
 
